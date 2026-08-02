@@ -52,17 +52,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/xennnzzzz-byte">
-    <img src="https://github-readme-stats.vercel.app/api?username=xennnzzzz-byte&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/xennnzzzz-byte">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xennnzzzz-byte&theme=catppuccin_mocha&hide_border=true&layout=compact" alt="Top Languages" />
-  </a>
-</p>
-
----
-
 ### 📫 Contact
 
 <p align="center">
