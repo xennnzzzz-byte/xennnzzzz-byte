@@ -54,24 +54,11 @@
 
 <p align="center">
   <a href="https://github.com/xennnzzzz-byte">
-    <img src="https://github-readme-stats.vercel.app/api?username=xennnzzzz-byte&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=xennnzzzz-byte&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xennnzzzz-byte&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/cards/profile-details?username=xennnzzzz-byte&theme=catppuccin_mocha" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xennnzzzz-byte&theme=catppuccin_mocha&no-frame=true&column=4" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xennnzzzz-byte&theme=catppuccin-moqcha&hide_border=true" alt="Activity Graph" />
+  <a href="https://github.com/xennnzzzz-byte">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xennnzzzz-byte&theme=catppuccin_mocha&hide_border=true&layout=compact" alt="Top Languages" />
+  </a>
 </p>
 
 ---
