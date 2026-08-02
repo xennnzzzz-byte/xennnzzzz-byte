@@ -10,10 +10,6 @@
 
 ---
 
-<table align="center">
-<tr>
-<td width="70%" valign="top">
-
 ### 👋 About Me
 
 - 💻 Passionate about programming and technology.
@@ -36,19 +32,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" />
 </p>
-
-</td>
-<td width="30%" align="center" valign="top">
-
-### ☕
-
-<img src="https://logospng.org/download/java/logo-java-4096.png" width="120" alt="Java Logo">
-
-<br><br>
-
-</td>
-</tr>
-</table>
 
 ---
 
