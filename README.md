@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imgs/2ddccd8cc2ef67e6f70f8045648bf8de.png" width="180" alt="xenzz" style="border-radius: 50%; padding: 4px; background: linear-gradient(45deg, #89b4fa, #cba6f7, #f5c2e7);">
+  <img src="imgs/2ddccd8cc2ef67e6f70f8045648bf8de.png" width="180" alt="Xenzz" style="border-radius: 50%; padding: 4px; background: linear-gradient(45deg, #89b4fa, #cba6f7, #f5c2e7);">
 </p>
 
 <h1 align="center">xenzz</h1>
