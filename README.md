@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="imgs/2ddccd8cc2ef67e6f70f8045648bf8de.png" width="180" alt="Xenzz" style="border-radius: 50%; padding: 4px; background: linear-gradient(45deg, #89b4fa, #cba6f7, #f5c2e7);">
+  <img src="imgs/avatar-border (3).png" width="200" alt="xenzz" />
 </p>
 
-<h1 align="center">Xenzz</h1>
+<h1 align="center">xenzz</h1>
 
 <p align="center">
   <i>"Building, breaking, and learning."</i>
