@@ -2,7 +2,7 @@
   <img src="imgs/2ddccd8cc2ef67e6f70f8045648bf8de.png" width="180" alt="Xenzz" style="border-radius: 50%; padding: 4px; background: linear-gradient(45deg, #89b4fa, #cba6f7, #f5c2e7);">
 </p>
 
-<h1 align="center">xenzz</h1>
+<h1 align="center">Xenzz</h1>
 
 <p align="center">
   <i>"Building, breaking, and learning."</i>
@@ -26,6 +26,7 @@
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
 ---
